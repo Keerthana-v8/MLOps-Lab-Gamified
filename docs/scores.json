@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T11:09:02.220528+00:00",
+  "generated_at": "2026-05-29T13:39:17.593952+00:00",
   "points_config": {
     "exercises": {
       "ex01": {
@@ -124,19 +124,17 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-05-29T11:09:02.170162+00:00",
+      "last_updated": "2026-05-29T13:39:17.573355+00:00",
       "status": "ok",
-      "total_xp": 12,
+      "total_xp": 10,
       "breakdown": [
         {
           "exercise": "ex01",
           "name": "Baseline Model",
           "emoji": "\ud83c\udfaf",
           "passed": true,
-          "xp": 12,
-          "bonuses": [
-            "\u2728 Flawless +2"
-          ],
+          "xp": 10,
+          "bonuses": [],
           "message": "Model trained. RMSE=3.21, R\u00b2=0.895"
         },
         {
@@ -262,7 +260,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-05-29T11:09:02.220037+00:00",
+      "last_updated": "2026-05-29T13:39:17.570952+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -398,7 +396,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-05-29T11:09:02.128531+00:00",
+      "last_updated": "2026-05-29T13:39:17.593576+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -534,7 +532,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-05-29T11:09:02.160418+00:00",
+      "last_updated": "2026-05-29T13:39:17.592602+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
