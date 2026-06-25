@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T04:36:51.790183+00:00",
+  "generated_at": "2026-06-25T08:02:32.755581+00:00",
   "points_config": {
     "exercises": {
       "ex01": {
@@ -77,7 +77,7 @@
   },
   "leaderboard": [
     {
-      "username": "impanarn",
+      "username": "Dhanushm007",
       "exercises": {
         "ex01": {
           "passed": true,
@@ -124,19 +124,17 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-06-25T04:36:51.789363+00:00",
+      "last_updated": "2026-06-25T08:02:31.048027+00:00",
       "status": "ok",
-      "total_xp": 12,
+      "total_xp": 10,
       "breakdown": [
         {
           "exercise": "ex01",
           "name": "Baseline Model",
           "emoji": "\ud83c\udfaf",
           "passed": true,
-          "xp": 12,
-          "bonuses": [
-            "\u2728 Flawless +2"
-          ],
+          "xp": 10,
+          "bonuses": [],
           "message": "Model trained. RMSE=3.21, R\u00b2=0.895"
         },
         {
@@ -215,7 +213,7 @@
       "rank": 1
     },
     {
-      "username": "Dhanushm007",
+      "username": "hema-2508",
       "exercises": {
         "ex01": {
           "passed": true,
@@ -262,7 +260,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-06-25T04:36:50.465952+00:00",
+      "last_updated": "2026-06-25T08:02:31.284663+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -351,7 +349,7 @@
       "rank": 2
     },
     {
-      "username": "hema-2508",
+      "username": "HEMANTH-B-G-01-03",
       "exercises": {
         "ex01": {
           "passed": true,
@@ -398,7 +396,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-06-25T04:36:49.897972+00:00",
+      "last_updated": "2026-06-25T08:02:31.431227+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -487,7 +485,7 @@
       "rank": 3
     },
     {
-      "username": "HEMANTH-B-G-01-03",
+      "username": "impanarn",
       "exercises": {
         "ex01": {
           "passed": true,
@@ -534,7 +532,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-06-25T04:36:50.318587+00:00",
+      "last_updated": "2026-06-25T08:02:32.754744+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -670,7 +668,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-06-25T04:36:50.035383+00:00",
+      "last_updated": "2026-06-25T08:02:31.436269+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -806,7 +804,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-06-25T04:36:50.557872+00:00",
+      "last_updated": "2026-06-25T08:02:30.946369+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -942,7 +940,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-06-25T04:36:50.472075+00:00",
+      "last_updated": "2026-06-25T08:02:31.449175+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -1078,7 +1076,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-06-25T04:36:50.214332+00:00",
+      "last_updated": "2026-06-25T08:02:31.301336+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -1214,7 +1212,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-06-25T04:36:50.501161+00:00",
+      "last_updated": "2026-06-25T08:02:31.446222+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -1350,7 +1348,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-06-25T04:36:50.237478+00:00",
+      "last_updated": "2026-06-25T08:02:30.784775+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -1486,7 +1484,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-06-25T04:36:50.599052+00:00",
+      "last_updated": "2026-06-25T08:02:31.133991+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -1579,7 +1577,7 @@
       "total_xp": 0,
       "exercises": {},
       "status": "no_fork",
-      "last_updated": "2026-06-25T04:36:50.479234+00:00",
+      "last_updated": "2026-06-25T08:02:31.341111+00:00",
       "breakdown": [],
       "rank": 12
     },
@@ -1588,7 +1586,7 @@
       "total_xp": 0,
       "exercises": {},
       "status": "no_fork",
-      "last_updated": "2026-06-25T04:36:50.217051+00:00",
+      "last_updated": "2026-06-25T08:02:31.100993+00:00",
       "breakdown": [],
       "rank": 13
     },
@@ -1597,7 +1595,7 @@
       "total_xp": 0,
       "exercises": {},
       "status": "no_fork",
-      "last_updated": "2026-06-25T04:36:50.562531+00:00",
+      "last_updated": "2026-06-25T08:02:31.483440+00:00",
       "breakdown": [],
       "rank": 14
     },
@@ -1606,7 +1604,7 @@
       "total_xp": 0,
       "exercises": {},
       "status": "no_fork",
-      "last_updated": "2026-06-25T04:36:50.482046+00:00",
+      "last_updated": "2026-06-25T08:02:31.374027+00:00",
       "breakdown": [],
       "rank": 15
     },
@@ -1615,7 +1613,7 @@
       "total_xp": 0,
       "exercises": {},
       "status": "no_fork",
-      "last_updated": "2026-06-25T04:36:50.463685+00:00",
+      "last_updated": "2026-06-25T08:02:31.341008+00:00",
       "breakdown": [],
       "rank": 16
     }
